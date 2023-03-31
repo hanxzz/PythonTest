@@ -1,0 +1,4 @@
+import sympy as sp
+x = sp.symbols('x')
+sp.Integral(3*x**2,x)
+
